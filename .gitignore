@@ -1,0 +1,29 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# Logs
+*.log
+
+# Android / Gradle
+.gradle/
+**/build/
+local.properties
+.cxx/
+captures/
+
+# Signing / secrets
+*.jks
+*.keystore
+*.pem
+*.key
+*.p12
+
+# Generated APK / AAB artifacts
+*.apk
+*.aab

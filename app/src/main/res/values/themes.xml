@@ -1,0 +1,8 @@
+<resources>
+    <style name="Theme.ExpenseTrackerNative" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="android:statusBarColor">#131329</item>
+        <item name="android:navigationBarColor">#101023</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:windowBackground">#131329</item>
+    </style>
+</resources>
