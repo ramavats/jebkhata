@@ -27,3 +27,7 @@ captures/
 # Generated APK / AAB artifacts
 *.apk
 *.aab
+
+# Personal MD files
+
+FEATURES.MD
