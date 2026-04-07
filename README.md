@@ -3,6 +3,9 @@
 **जेब का हिसाब, हर दिन आसान।**  
 **Pocket expenses, tracked simply every day.**
 
+<img height="600" alt="image" src="https://github.com/user-attachments/assets/ca23c37f-27de-4862-b740-a952e01f15a2" />
+
+
 Android-only expense tracker built with Kotlin + Jetpack Compose and local SQLite storage.
 
 UI design inspiration credit: **[chillar.me](https://chillar.me)**.
